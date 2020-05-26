@@ -9,4 +9,4 @@ In this repository, you'll find a file called main.py; it is an example of an ol
 4. Play the game multiple times to ensure the game has a random feature and winning/losing paramters
 5. Ensure the game does not crash
 ## Contribution
-No contrubtion is needed. The intended use is to create your own adventure game. 
+No contrubtion is needed. The intended use is to create your own adventure game.
